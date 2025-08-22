@@ -1,0 +1,8 @@
+flask
+python-dotenv
+spacy
+python-docx
+pypdf2
+flask-cors
+
+
